@@ -1,0 +1,16 @@
+{
+  "name": "websiteopt",
+  "version": "1.0.0",
+  "description": "website optimization p4",
+  "main": "index.html",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Geccles/websiteOpt.git"
+  },
+  "author": "Galina M Eccles",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Geccles/websiteOpt/issues"
+  },
+  "homepage": "https://github.com/Geccles/websiteOpt#readme"
+}
