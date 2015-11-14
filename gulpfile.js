@@ -68,3 +68,5 @@ gulp.task('views-minify-html', function() {
     .pipe(minifyHTML(opts))
     .pipe(gulp.dest('distribution/views'));
 });
+
+gulp.task('default', ['resize', 'copy-images', 'views-copy-images', 'minify-css', 'minify-views-css', 'compress', 'views-compress', 'minify-html', 'views-minify-html']);
