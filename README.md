@@ -15,7 +15,7 @@ I first started out by optimizing the critical rendering path and made index.htm
 
 #### To review index.html with PageSpeed Insights
 
-Once that is setup copy the ngrok URL displayed in the terminal (it will look something like this: http://9c941fda.ngrok.io) and run it with PAgeSpeeds Insights. Paste the the URL in the "Analyze"  box and click the analyze button.
+Once that is setup copy the ngrok URL displayed in the terminal (it will look something like this: http://9b871fgty.ngrok.io) and run it with PageSpeeds Insights. Paste the the URL in the "Analyze"  box and click the analyze button.
 
 #### To review pizza.html using Chrome Dev Tools
 
