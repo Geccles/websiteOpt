@@ -21,6 +21,8 @@ I first started out by optimizing the critical rendering path and made index.htm
 2. Launch Chrome Dev Tools.
 3. Check out the TimeLine and Console tabs when scrolling the page and resizing pizzas.
 
+### What Needs to Happen
+
 #### Part 1: Optimize PageSpeed Insights score for index.html
 
 Optimize the html and css to achieve a PageSpeed Insights score of 90+ for Mobile and Desktop.
