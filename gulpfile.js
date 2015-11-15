@@ -21,7 +21,7 @@ gulp.task('copy-images', function () {
 });
 
 gulp.task('views-copy-images', function () {
-  gulp.src(['views/images/pizza.png'])
+  gulp.src(['views/images/pizza.png', 'views/images/pizzeria.jpg', 'views/images/pizzeria-small.jpg'])
     .pipe(gulp.dest('distribution/views/images'));
 });
 
