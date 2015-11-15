@@ -15,7 +15,7 @@ I first started out by optimizing the critical rendering path and made index.htm
 7. Copy the URL ngrok says to use.
 8. Paste the the URL in the "Analyze" box of https://developers.google.com/speed/pagespeed/insights/ and click the analyze button.
 
-#### To review pizza.html using Chrome Dev Tools
+#### Reviewing pizza.html using Chrome Dev Tools
 
 1. Load the localhost directory of file into a browser.
 2. Launch Chrome Dev Tools.
