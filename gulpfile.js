@@ -7,12 +7,12 @@ var minifyHTML = require('gulp-minify-html');
 gulp.task('resize', function () {
   gulp.src('views/images/pizzeria.jpg')
     .pipe(imageResize({
-      width : 360,
-      height : 270,
+      width : 115,
+      height : 75,
       crop : true,
       upscale : false
     }))
-    .pipe(gulp.dest('distribution/views/images'));
+    .pipe(gulp.dest('views/images/pizzeria-small.jpg'));
 });
 
 gulp.task('copy-images', function () {
@@ -69,4 +69,4 @@ gulp.task('views-minify-html', function() {
     .pipe(gulp.dest('distribution/views'));
 });
 
-gulp.task('default', ['resize', 'copy-images', 'views-copy-images', 'minify-css', 'minify-views-css', 'compress', 'views-compress', 'minify-html', 'views-minify-html']);
+gulp.task('default', ['copy-images', 'views-copy-images', 'minify-css', 'minify-views-css', 'compress', 'views-compress', 'minify-html', 'views-minify-html']);
