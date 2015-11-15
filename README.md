@@ -11,3 +11,11 @@ In order to see the outcome of what the page speed is I used googles PageSpeed I
 
 
 #### Part 1: Optimize PageSpeed Insights score for index.html
+
+--Optimize the html and css to achieve a PageSpeed Insights score of 90+ for Mobile and Desktop.
+
+#### Part 2: Optimize Frame per Second in pizza.html
+
+--Identify and perform optimizations ensuring a consistent frame rate of 60fps when scrolling in pizza.html.
+
+---The target timeline should look something like this (or better):
