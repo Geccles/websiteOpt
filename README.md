@@ -27,3 +27,5 @@ Below you can see my test in PageSpeed Insights.
 Identify and perform optimizations ensuring a consistent frame rate of 60fps when scrolling in pizza.html.
 
 The target timeline should look something like this (or better):
+
+![image](framePerSec.png)
