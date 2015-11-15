@@ -14,7 +14,9 @@ In order to see the outcome of what the page speed is I used googles PageSpeed I
 
 Optimize the html and css to achieve a PageSpeed Insights score of 90+ for Mobile and Desktop.
 
-I created two images for this. I created a small pizzeria.jpg for index.html and a larger one for pizza.html for optimization.
+*Just a side note, I created two images one is a small pizzeria.jpg for index.html and a larger one for pizza.html which allowed for better optimization.
+
+Below you can see my test in PageSpeed Insights.
 
 ![image](desktopPageSpeed.png)
 
