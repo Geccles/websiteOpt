@@ -9,15 +9,15 @@ I first started out by optimizing the critical rendering path and made index.htm
 1. Clone my project from github to a local directory
 2. Start a webserver the includes my local directory in the path it will serve the files from.
 3. Assuming you have python installed:
-  * cd to this local directory
+  * cd to this local directory/distribution
   * in the command line write this: python -m SimpleHTTPServer 8080
 4. Open a new window and cd to local directory for my project and write this in the command line: ngrok http 8080
 
-# To review index.html with PageSpeed Insights
+#### To review index.html with PageSpeed Insights
 
 Once that is setup copy the ngrok URL displayed in the terminal (it will look something like this: http://9c941fda.ngrok.io) and run it with PAgeSpeeds Insights. Paste the the URL in the "Analyze"  box and click the analyze button.
 
-# To review pizza.html using Chrome Dev Tools
+#### To review pizza.html using Chrome Dev Tools
 
 1. Load the localhost directory of file into a browser.
 2. Launch Chrome Dev Tools.
